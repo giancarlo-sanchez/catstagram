@@ -1,8 +1,7 @@
 # Catstagram
 
-This is the starter project to help you learn how to use AJAX.
+In this project the we will use AJAX and fetch API to make requests that will update content without refreshing the page.
 
-1. Clone this respository
-   https://github.com/appacademy-starters/ajax-project-starter.
-1. Follow the associated directions in the course.
-1. See the cute kitties.
+1. Vote kitties
+2. Add/Remove comments.
+3. See all the comments posted and click New Pic button to change the kitty.
